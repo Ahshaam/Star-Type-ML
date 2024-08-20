@@ -1,6 +1,6 @@
 Data Collection, Cleanup, and Exploration
 Data Source and Selection
-I utilized the satellite Hipparcos' star catalog dataset for the analysis, chosen for its accuracy and real data. The data spans from 1989 to 1993, collected via satellite, which provides many different measurments and other types of data for over 50 thousand different stars.
+I utilized the satellite Hipparcos' star catalog dataset for the analysis, chosen for its accuracy and real data. The data spans from 1989 to 1993, collected via satellite, which provides many different measurements and other types of data for over 50 thousand different stars.
 Data Collection Process
 * Source: Hipparcos Satellite dataset
 * Coverage: Star Sprectral Type Predictions
